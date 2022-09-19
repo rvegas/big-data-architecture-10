@@ -1,0 +1,16 @@
+version: '3'
+services:
+  master:
+    image: rvegas/hadoop-cluster:0.0.3
+    hostname: master
+    ports:
+     - "8088:8088"
+     - "50070:50070"
+     - "8042:8042"
+     - "50075:50075"
+     - "19888:19888"
+  worker:
+    image: rvegas/hadoop-cluster:0.0.3
+    environment:
+        NAMENODE: master
+        RESOURCEMANAGER: master

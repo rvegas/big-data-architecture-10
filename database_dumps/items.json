@@ -1,0 +1,56 @@
+{"_id":{"$oid":"59402db7bfa46541e81d853c"},"cost":2150,"name":"Blink_Dagger","effects":" ","description":"The fabled dagger used by the fastest assassin ever to walk the lands."}
+{"_id":{"$oid":"59402db7bfa46541e81d853d"},"cost":3900,"name":"Black_King_Bar","effects":" +10 Strength","description":"A powerful staff imbued with the strength of giants."}
+{"_id":{"$oid":"59402db7bfa46541e81d853e"},"cost":2200,"name":"Blademail","effects":" +22 Damage","description":"A razor-sharp coat of mail, it is the choice of selfless martyrs in combat."}
+{"_id":{"$oid":"59402db7bfa46541e81d853f"},"cost":450,"name":"Blades_of_Attack","effects":" +9 Damage","description":"The damage of these small, concealable blades should not be underestimated."}
+{"_id":{"$oid":"59402db7bfa46541e81d8540"},"cost":1000,"name":"Blade_of_Alacrity","effects":" +10 Agility","description":"A long blade imbued with time magic."}
+{"_id":{"$oid":"59402db7bfa46541e81d8541"},"cost":1500,"name":"Arcane_Boots","effects":" +55 Movement Speed","description":"Magi equipped with these boots are valued in battle."}
+{"_id":{"$oid":"59402db7bfa46541e81d8542"},"cost":450,"name":"Belt_of_Strength","effects":" +6 Strength","description":"A valued accessory for improving vitality."}
+{"_id":{"$oid":"59402db7bfa46541e81d8543"},"cost":500,"name":"Boots_of_Speed","effects":" +55 Movement Speed","description":"Fleet footwear, increasing movement."}
+{"_id":{"$oid":"59402db7bfa46541e81d8544"},"cost":4200,"name":"Aghanim%27s_Scepter","effects":" +10 All Attributes","description":"The scepter of a wizard with demigod-like powers."}
+{"_id":{"$oid":"59402db7bfa46541e81d8545"},"cost":5350,"name":"Assault_Cuirass","effects":" +10 Armor","description":"Forged in the depths of the nether reaches, this hellish mail provides an army with increased armor and attack speed."}
+{"_id":{"$oid":"59402db7bfa46541e81d8546"},"cost":6750,"name":"Abyssal_Blade","effects":" +100 Damage","description":"The lost blade of the Commander of the Abyss, this edge cuts into an enemy's soul."}
+{"_id":{"$oid":"59402db8bfa46541e81d8547"},"cost":2225,"name":"Vanguard","effects":" +250 HP","description":"A powerful shield that defends its wielder from even the most vicious of attacks."}
+{"_id":{"$oid":"59402db8bfa46541e81d8548"},"cost":1025,"name":"Tranquil_Boots","effects":" +80 Movement Speed","description":"While they increase the longevity of the wearer, this boot is not particularly reliable."}
+{"_id":{"$oid":"59402db8bfa46541e81d8549"},"cost":2150,"name":"Yasha","effects":" +16 Agility","description":"Yasha is regarded as the swiftest weapon ever created."}
+{"_id":{"$oid":"59402db8bfa46541e81d854a"},"cost":1800,"name":"Talisman_of_Evasion","effects":" 25% Evasion","description":"A necklace that allows you to anticipate enemy attacks."}
+{"_id":{"$oid":"59402db8bfa46541e81d854b"},"cost":509,"name":"Soul_Ring","effects":" +3 HP/sec Regeneration","description":"A ring that feeds on the souls of those around it."}
+{"_id":{"$oid":"59402db8bfa46541e81d854c"},"cost":2100,"name":"Ultimate_Orb","effects":" +10 Agility","description":"A mystical orb containing the essence of life."}
+{"_id":{"$oid":"59402db8bfa46541e81d854d"},"cost":875,"name":"Void_Stone","effects":" +100% Mana Regen","description":"Jewelry that was once used to channel nether realm magic, this ring pulses with energy."}
+{"_id":{"$oid":"59402db8bfa46541e81d854e"},"cost":385,"name":"Wraith_Band","effects":" +3 Damage","description":"A circlet with faint whispers echoing about it."}
+{"_id":{"$oid":"59402db8bfa46541e81d854f"},"cost":6150,"name":"Satanic","effects":" +25 Strength","description":"Immense power at the cost of your soul."}
+{"_id":{"$oid":"59402db8bfa46541e81d8550"},"cost":4300,"name":"Sange_and_Yasha","effects":" +16 Agility","description":"Sange and Yasha, when attuned by the moonlight and used together, become a very powerful combination."}
+{"_id":{"$oid":"59402db8bfa46541e81d8551"},"cost":1000,"name":"Staff_of_Wizardry","effects":" +10 Intelligence","description":"A staff of magical powers passed down from the eldest mages."}
+{"_id":{"$oid":"59402db8bfa46541e81d8552"},"cost":2950,"name":"Skull_Basher","effects":" +40 Damage","description":"A feared weapon in the right hands, this maul's ability to shatter the defenses of its opponents should not be underestimated."}
+{"_id":{"$oid":"59402db8bfa46541e81d8553"},"cost":1100,"name":"Vitality_Booster","effects":" +250 HP","description":"A ruby gemstone that has been passed down through generations of warrior kin."}
+{"_id":{"$oid":"59402db8bfa46541e81d8554"},"cost":2150,"name":"Sange","effects":" +25 Damage","description":"Sange is an unusually accurate weapon, seeking weak points automatically."}
+{"_id":{"$oid":"59402db8bfa46541e81d8555"},"cost":3800,"name":"Sacred_Relic","effects":" +60 Damage","description":"An ancient weapon that often turns the tides of war."}
+{"_id":{"$oid":"59402db8bfa46541e81d8556"},"cost":4100,"name":"Rod_Of_Atos","effects":" +25 Intelligence","description":"Atos, the Lord of Blight, has his essence stored in this deceptively simple wand."}
+{"_id":{"$oid":"59402db8bfa46541e81d8557"},"cost":175,"name":"Ring_of_Protection","effects":" +2 ","description":"A glimmering ring that defends its bearer."}
+{"_id":{"$oid":"59402db8bfa46541e81d8558"},"cost":325,"name":"Sage%27s_Mask","effects":" +50% Mana regeneration","description":"A mask commonly used by mages and warlocks for various rituals."}
+{"_id":{"$oid":"59402db8bfa46541e81d8559"},"cost":500,"name":"Ring_of_Basilius","effects":" +6 Damage","description":"A ring given as a reward to the greatest mages."}
+{"_id":{"$oid":"59402db8bfa46541e81d855a"},"cost":985,"name":"Ring_Of_Aquila","effects":" +9 Damage","description":"The ring of the fallen Warlord Aquila continues to support armies in battle."}
+{"_id":{"$oid":"59402db8bfa46541e81d855b"},"cost":875,"name":"Ring_of_Health","effects":" +5 HP Regen","description":"A shiny ring found beneath a fat halfling’s corpse."}
+{"_id":{"$oid":"59402db8bfa46541e81d855c"},"cost":1200,"name":"Point_Booster","effects":" +250 HP","description":"A perfectly formed amethyst that nourishes body and mind when held."}
+{"_id":{"$oid":"59402db9bfa46541e81d855d"},"cost":450,"name":"Robe_of_the_Magi","effects":" +6 Intelligence","description":"This robe corrupts the soul of the user, but provides wisdom in return."}
+{"_id":{"$oid":"59402db9bfa46541e81d855e"},"cost":1450,"name":"Power_Treads","effects":" +55 Movespeed","description":"A pair of tough-skinned boots that change to meet the demands of the wearer."}
+{"_id":{"$oid":"59402db9bfa46541e81d855f"},"cost":3200,"name":"Reaver","effects":" +25 Strength","description":"A massive axe capable of tearing whole mountains down."}
+{"_id":{"$oid":"59402db9bfa46541e81d8560"},"cost":4900,"name":"Manta_Style","effects":" +10 Strength","description":"An axe made of reflective materials that causes confusion amongst enemy ranks."}
+{"_id":{"$oid":"59402db9bfa46541e81d8561"},"cost":1400,"name":"Platemail","effects":" +10 Armor","description":"Thick metal plates that protect the entire upper body. Avoid dropping on feet."}
+{"_id":{"$oid":"59402db9bfa46541e81d8562"},"cost":600,"name":"Magical_Bottle","effects":" ","description":"An old bottle that survived the ages, the contents placed inside become enchanted."}
+{"_id":{"$oid":"59402db9bfa46541e81d8563"},"cost":1600,"name":"Mithril_Hammer","effects":" +24 Damage","description":"A hammer forged of pure mithril."}
+{"_id":{"$oid":"59402db9bfa46541e81d8564"},"cost":1400,"name":"Phase_Boots","effects":" +24 Damage","description":"Boots that allow the wearer to travel between the ether."}
+{"_id":{"$oid":"59402db9bfa46541e81d8565"},"cost":1000,"name":"Ogre_Club","effects":" +10 Strength","description":"You grow stronger just by holding it."}
+{"_id":{"$oid":"59402db9bfa46541e81d8566"},"cost":53,"name":"Iron_Branch","effects":" +1 All ","description":"A seemingly ordinary branch, its ironlike qualities are bestowed upon the bearer."}
+{"_id":{"$oid":"59402db9bfa46541e81d8567"},"cost":509,"name":"Magic_Wand","effects":" +3 All Attributes","description":"A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike."}
+{"_id":{"$oid":"59402db9bfa46541e81d8568"},"cost":2100,"name":"Hyperstone","effects":" +55 Attack Speed","description":"A mystical, carved stone that boosts the fervor of the holder."}
+{"_id":{"$oid":"59402db9bfa46541e81d8569"},"cost":1850,"name":"Helm_of_the_Dominator","effects":" +20 Damage","description":"The powerful headpiece of a dead necromancer."}
+{"_id":{"$oid":"59402db9bfa46541e81d856a"},"cost":350,"name":"Ring_of_Regeneration","effects":" +2 HP/sec Regeneration","description":"This ring is considered a good luck charm among the Gnomes."}
+{"_id":{"$oid":"59402db9bfa46541e81d856b"},"cost":1000,"name":"Energy_Booster","effects":" +250 Mana","description":"This lapis gemstone is commonly added to the collection of wizards seeking to improve their presence in combat."}
+{"_id":{"$oid":"59402db9bfa46541e81d856c"},"cost":4100,"name":"Desolator","effects":" +60 Damage ","description":"A wicked weapon, used in torturing political criminals."}
+{"_id":{"$oid":"59402db9bfa46541e81d856d"},"cost":550,"name":"Chainmail","effects":" +5 Armor","description":"A medium weave of metal chains."}
+{"_id":{"$oid":"59402db9bfa46541e81d856e"},"cost":950,"name":"Helm_of_Iron_Will","effects":" +5 Armor ","description":"The helmet of a legendary warrior who fell in battle."}
+{"_id":{"$oid":"59402db9bfa46541e81d856f"},"cost":5200,"name":"Heart_of_Tarrasque","effects":" +40 Strength","description":"Preserved heart of an extinct monster, it bolsters the bearer’s fortitude."}
+{"_id":{"$oid":"59402db9bfa46541e81d8570"},"cost":1500,"name":"Javelin","effects":" +21 Damage","description":"A rather typical spear that can sometimes pierce through an enemy's armor when used to attack."}
+{"_id":{"$oid":"59402db9bfa46541e81d8571"},"cost":1200,"name":"Broadsword","effects":" +18 Damage","description":"The classic weapon of choice for knights, this blade is sturdy and reliable for slaying enemies."}
+{"_id":{"$oid":"59402db9bfa46541e81d8572"},"cost":2500,"name":"Boots_of_Travel","effects":" +100 Movement Speed ","description":"Winged boots that grant omnipresence."}
+{"_id":{"$oid":"59402db9bfa46541e81d8573"},"cost":3950,"name":"Heaven%27s_Halberd","effects":" +25 Damage","description":"This halberd moves with the speed of a smaller weapon, allowing the bearer to win duels that a heavy edge would not."}
