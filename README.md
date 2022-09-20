@@ -55,13 +55,17 @@ https://colab.research.google.com/drive/1_LTnLRG5EANOdct-uJx6g3lVAl6PdYS2?usp=sh
 https://colab.research.google.com/drive/1-FpEbJ-6ZzsiYoVFXqOwl56LTC53s9Va  
 - CRAWLING: [Usando scrapy para obtener datos]  
 https://colab.research.google.com/drive/1VDcjf-Tk69ZuNbx0hJdh_H6ZyccoRzsb  
-- SCRAPING: [Usando python requests para llamar a APIs]  
-https://colab.research.google.com/drive/1lGfM-2fj1aa7bOIDFlYWOfdtXduuxXuv
+
   
   
 ### DIA 2
   
-TBA
+- SCRAPING: [Usando python requests para llamar a APIs]  
+https://colab.research.google.com/drive/1lGfM-2fj1aa7bOIDFlYWOfdtXduuxXuv  
+- CLOUD 1: [Intro Rapida]  
+https://colab.research.google.com/drive/1h6YStd7B0_SsGyFoI5JRca7LzLTeLzBF  
+- Bases de datos Cloud:  
+https://colab.research.google.com/drive/1o0X2dpDMJT6vv6aj9uef7obUMDkr3CiH  
   
   
 ### DIA 3
