@@ -55,7 +55,6 @@ https://colab.research.google.com/drive/1_LTnLRG5EANOdct-uJx6g3lVAl6PdYS2?usp=sh
 https://colab.research.google.com/drive/1-FpEbJ-6ZzsiYoVFXqOwl56LTC53s9Va  
 - CRAWLING: [Usando scrapy para obtener datos]  
 https://colab.research.google.com/drive/1VDcjf-Tk69ZuNbx0hJdh_H6ZyccoRzsb  
-
   
   
 ### DIA 2
@@ -70,8 +69,13 @@ https://colab.research.google.com/drive/1o0X2dpDMJT6vv6aj9uef7obUMDkr3CiH
   
 ### DIA 3
   
-TBA
-  
+- Bases de Datos 1: [NoSQL vs SQL]  
+**PRESENTACION**: https://docs.google.com/presentation/d/1cHlnB-CumQhPT52phFLtdqp-NL2P3yI372wLoc0l3pA  
+**PRACTICA**: https://colab.research.google.com/drive/1GJz8sMerq_wfl574NZUEsa-xugv7FQ7r?usp=sharing 
+- Elastic Search:    
+**PRESENTACION**: https://docs.google.com/presentation/d/1NdtGyWRCsxyp6T__wLriMJDx3l61AVgaORV9nBdd2sA  
+
+
 ### DIA 4
   
 TBA
