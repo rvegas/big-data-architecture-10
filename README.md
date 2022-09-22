@@ -72,13 +72,15 @@ https://colab.research.google.com/drive/1o0X2dpDMJT6vv6aj9uef7obUMDkr3CiH
 - Bases de Datos 1: [NoSQL vs SQL]  
 **PRESENTACION**: https://docs.google.com/presentation/d/1cHlnB-CumQhPT52phFLtdqp-NL2P3yI372wLoc0l3pA  
 **PRACTICA**: https://colab.research.google.com/drive/1GJz8sMerq_wfl574NZUEsa-xugv7FQ7r?usp=sharing 
-- Elastic Search:    
-**PRESENTACION**: https://docs.google.com/presentation/d/1NdtGyWRCsxyp6T__wLriMJDx3l61AVgaORV9nBdd2sA  
 
 
 ### DIA 4
   
-TBA
+- Elastic Search:    
+**PRESENTACION**: https://docs.google.com/presentation/d/1NdtGyWRCsxyp6T__wLriMJDx3l61AVgaORV9nBdd2sA  
+- Elastic Search:    
+- Elastic y Kibana en la nube: https://colab.research.google.com/drive/1so11jurzTD2W5BRlz-Ozc5PoT28A94Wn  
+**PRACTICA**: https://colab.research.google.com/drive/1LcRwty_B3tn6LlabR2_kRvarB_5yiPBX  
   
   
 ### DIA 5
