@@ -77,29 +77,28 @@ https://colab.research.google.com/drive/1o0X2dpDMJT6vv6aj9uef7obUMDkr3CiH
 ### DIA 4
   
 - Elastic Search:    
-**PRESENTACION**: https://docs.google.com/presentation/d/1NdtGyWRCsxyp6T__wLriMJDx3l61AVgaORV9nBdd2sA  
-- Elastic Search:    
 - Elastic y Kibana en la nube: https://colab.research.google.com/drive/1so11jurzTD2W5BRlz-Ozc5PoT28A94Wn  
   
     
 ### DIA 5 
 
+- Elastic Search:    
+**PRESENTACION**: https://docs.google.com/presentation/d/1NdtGyWRCsxyp6T__wLriMJDx3l61AVgaORV9nBdd2sA  
 **PRACTICA**: https://colab.research.google.com/drive/1LcRwty_B3tn6LlabR2_kRvarB_5yiPBX  
   
 - HADOOP: [Datalakes]  
 https://colab.research.google.com/drive/1eC-oD_E_D-S1Y94nvtkSqJtMsUmc7w-y  
-- HADOOP 1: [HADOOP (HDFS)]  [registry.hub.docker.com/rvegas/hadoop-cluster:0.0.3]
-https://colab.research.google.com/drive/1kfHF8HpDv2py33-ByDlz4yjWfRMWJkJB
-- HADOOP 2: [YARN (YARN + colas)]  
-https://colab.research.google.com/drive/14a_jUJwFG1AjBFr1zZY-w_nUjk9mreDG?usp=sharing    
   
   
    
 ### DIA 6
-  
-  
-TBA  
-  
+
+- HADOOP 1: [HADOOP (HDFS)]  [registry.hub.docker.com/rvegas/hadoop-cluster:0.0.3]
+https://colab.research.google.com/drive/1kfHF8HpDv2py33-ByDlz4yjWfRMWJkJB
+- HADOOP 2: [YARN (YARN + colas)]  
+https://colab.research.google.com/drive/14a_jUJwFG1AjBFr1zZY-w_nUjk9mreDG?usp=sharing    
+- CLOUD 3: [Dataproc - Jobs]  
+https://colab.research.google.com/drive/1-h60zR9Jmk1l2Z5tb4yE-gQBGmu3F9jb
   
 ### DIA 7  
 
