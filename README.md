@@ -97,11 +97,13 @@ https://colab.research.google.com/drive/1eC-oD_E_D-S1Y94nvtkSqJtMsUmc7w-y
 https://colab.research.google.com/drive/1kfHF8HpDv2py33-ByDlz4yjWfRMWJkJB
 - HADOOP 2: [YARN (YARN + colas)]  
 https://colab.research.google.com/drive/14a_jUJwFG1AjBFr1zZY-w_nUjk9mreDG?usp=sharing    
-- CLOUD 3: [Dataproc - Jobs]  
-https://colab.research.google.com/drive/1-h60zR9Jmk1l2Z5tb4yE-gQBGmu3F9jb
+- CLOUD 1: [Intro Rapida]  
+https://colab.research.google.com/drive/1h6YStd7B0_SsGyFoI5JRca7LzLTeLzBF  
   
 ### DIA 7  
 
+- CLOUD 2: [Montar un Hadoop en la nube]  
+https://colab.research.google.com/drive/1C4vZpQmiw4ZimIIa7Hx4qbbTlZmtUMGN    
 - CLOUD 3: [Dataproc - Jobs]  
 https://colab.research.google.com/drive/1-h60zR9Jmk1l2Z5tb4yE-gQBGmu3F9jb
 - HIVE: [Intro a HIVE]  
