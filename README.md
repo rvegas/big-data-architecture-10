@@ -102,7 +102,12 @@ https://colab.research.google.com/drive/1-h60zR9Jmk1l2Z5tb4yE-gQBGmu3F9jb
   
 ### DIA 7  
 
-TBA
+- CLOUD 3: [Dataproc - Jobs]  
+https://colab.research.google.com/drive/1-h60zR9Jmk1l2Z5tb4yE-gQBGmu3F9jb
+- HIVE: [Intro a HIVE]  
+https://colab.research.google.com/drive/1ZdQ4gUvFBKvr6RJDbFMfBUJZJRWFNLit  
+- HIVE II: [HIVE + Python + Cloud]  
+https://colab.research.google.com/drive/1OqdMecXdqnDa6J2FR0DOqRqzB2pSzdS5  
  
   
 ### DIA 8
