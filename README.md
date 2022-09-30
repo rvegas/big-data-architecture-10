@@ -77,7 +77,7 @@ kernelCommandLine = vsyscall=emulate
 ### Certificaciones Cloud
   
 - Recomendado para estudiar:
-  - https://www.linuxacademy.com
+  - https://acloudguru.com/
   - https://www.qwiklabs.com/
 - Mejor certificacion para empezar:
   - https://aws.amazon.com/certification/certified-cloud-practitioner/
