@@ -4,8 +4,9 @@ En este módulo las clases estan distribuidas utilizando notebooks de Python
 alojados en Google Colaboratory.
 
 
-## Solucion Posible a la practica:
+## Solucion a la practica:
   
+https://docs.google.com/document/d/1n5ogOVKZ59Qh4ZpYH40oGMVw6R7hwx094xZ0uF2aD8M/edit?usp=sharing
 
 ## Links importantes
 
